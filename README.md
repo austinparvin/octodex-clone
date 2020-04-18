@@ -18,6 +18,12 @@ This is a responsive website cloned after [https://octodex.github.com/](https://
 - [FLEXBOX](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [NETLIFY](https://docs.netlify.com/?_ga=2.56383019.1272475466.1587169866-1421079835.1583768648)
 
+## Live Site
+
+[LIVE SITE](https://octodex-clone-austinparvin.netlify.app/)
+
+![Octo Clone](https://i.imgur.com/cq9X2XM.png)
+
 ## Featured Code
 
 ### Desktop CSS Media Query
@@ -46,8 +52,3 @@ This is a responsive website cloned after [https://octodex.github.com/](https://
 }
  ```
  
-## Live Site
-
-[LIVE SITE](https://octodex-clone-austinparvin.netlify.app/)
-
-![Octo Clone](https://i.imgur.com/cq9X2XM.png)
